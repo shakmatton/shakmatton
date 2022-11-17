@@ -2,9 +2,9 @@
 
 Who am I?
 
-- A beginner in coding, but with experience in some topics of Computer Science (theory, data structures and so on) and 3D Computer Graphics (modeling, texturing).
+- A beginner in coding, but with some experience in certain topics of Computer Science (theory, data structures and so on) and 3D Computer Graphics (modeling, texturing).
 
-![Job Simulator](https://user-images.githubusercontent.com/118413324/202550376-351859e3-ca24-46d7-9c38-18a679dd4e47.jpeg)
+<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202550376-351859e3-ca24-46d7-9c38-18a679dd4e47.jpeg" width="85%"></p>
 
 Why are you here?
 
@@ -26,13 +26,13 @@ Do you have any hobbies?
 
 - Besides tech, I also pursue knowledge of foreign languages (specially english, spanish, french, german, italian). I enjoy chatting with different people from around the world. So, feel free to reach me or to talk to me in hundreds of languages, business related or not!
 
-<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202552726-1ede40b5-5b55-4f6a-8d1d-bfa2c823549c.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202552726-1ede40b5-5b55-4f6a-8d1d-bfa2c823549c.jpg" width="70%"></p>
 
 Anything else?
 
 - Thank you for your time reading this. Stay safe! And may the force be with you!
 
-<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202551716-3977d8a7-fdab-49ad-984d-4ff3d1199ebc.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202551716-3977d8a7-fdab-49ad-984d-4ff3d1199ebc.jpg" width="80%"></p>
 
 <!---
 shakmatton/shakmatton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
