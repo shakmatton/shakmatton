@@ -14,9 +14,13 @@ What are your goals?
 
 - As a novice in coding, my goal is to master the required skills for creating visually appealing websites and webapps (traditional & mobile). However, my ultimate goal is moving towards AR/VR technology: I believe the real purpose of technology lies where the digital and the real intersect.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202553459-429838e0-8e74-44f4-95eb-80bdc152e685.png"></p>
+
 How do you intend to achieve your goals?
 
 - I intend to learning by doing, starting with tech basics (HTML, CSS, Javascript) and moving towards advanced frameworks (React, Three.js). Then, I intend to build AR/VR apps as an useful and exciting extension of our lives, by embracing the ability of superimposing contents and enabling creative connection between mixed realities.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/118413324/202553590-585f8adc-9e44-4d55-8f13-e4359bd054aa.png"></p>
 
 Do you have any hobbies?
 
