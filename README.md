@@ -1,6 +1,6 @@
 <h1>Hi, I’m @shakmatton!</h1>
 
-<b>Who am I?</b>
+<b>Who are you?</b>
 
 - A beginner in coding, but with some experience in certain topics of Computer Science (theory, data structures and so on) and 3D Computer Graphics (modeling, texturing).
 
